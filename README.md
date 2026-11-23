@@ -2,7 +2,7 @@
 This is my replication package for my STA-145 final project. I looked at the Billboard Top 100 Songs and analyzed when they were released and how many streams they got. I wanted to find out if the month a song was released in affected the amount of streams it received.
 
 **Instructions**
-To access and utilize the script, open the "powersj8-final_project.r" file, which contains the code for my project. To access the dataset, open the "" file.
+To access and utilize the script, open the "powersj8-final_project.r" file, which contains the code for my project. To access the dataset, open the "STA 145-Final Project Dataset - Data Table Tabular.csv" file.
 
 **Data**
 The data collected for this project was songs from the Billboard Top 100. Since there are so many songs and each was released at a different time, the main goal of the analysis was to determine whether the month a song was released determined the amount of streams it would get. I analyzed this by figuring out what month each song on the billboard was released and giving it a number that aligned with the month. I also then wrote down the amount of streams each song received on all streaming platforms combined.
