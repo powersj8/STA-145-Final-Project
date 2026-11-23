@@ -1,0 +1,5 @@
+Table 1: Descriptive Statistics,,,,,
+,Mean,SD,Min,Max,Description
+streams,"313,900,000","457,032,534","1,700,000","2,370,000,000",Number of streams a song gets
+month_released,6.48,1.966795,1,11,Month the song was released in
+n = SAMPLE SIZE HERE,,,,,
